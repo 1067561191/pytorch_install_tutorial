@@ -9,7 +9,7 @@ cuDNN=8.9.0
 ### 2.1 安装Anaconda
 [Anaconda3](https://www.anaconda.com/download)  
 没什么好说的  
-一直next即可[可能会话费些许时间]  
+一直next即可[可能会花费些许时间]  
 [可按照自己的实际情况更改安装路径和是否勾选让Anaconda自带的py310被IDEA识别为系统python]  
 ![Anaconda Installed](./images/Anaconda_installed.png)  
 ![conda -V](./images/conda-V.png)
