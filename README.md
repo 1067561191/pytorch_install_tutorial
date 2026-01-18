@@ -104,4 +104,6 @@ torch.cuda.is_available()
 ```
 ![torch.cuda.is_available()](./images/torch.cuda.is_available().png)
 看到这里显示true就表示你已经成功安装了pytorch-CUDA了!!!
-## 5 如果您在安装过程中遇到任何问题可以Google但请不要issues因为作者只是个小白
+## Donate
+### 贝宝
+申请中...
